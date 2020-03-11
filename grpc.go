@@ -7,9 +7,9 @@ import (
 	"net"
 	"time"
 
-	qnet "github.com/gfanton/grpc-quic/net"
-	options "github.com/gfanton/grpc-quic/opts"
-	"github.com/gfanton/grpc-quic/transports"
+	qnet "github.com/rashnakumar96/grpc-quic/net"
+	options "github.com/rashnakumar96/grpc-quic/opts"
+	"github.com/rashnakumar96/grpc-quic/transports"
 	quic "github.com/lucas-clemente/quic-go"
 	ma "github.com/multiformats/go-multiaddr"
 	"google.golang.org/grpc"
