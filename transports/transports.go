@@ -5,7 +5,7 @@ import (
 	"crypto/tls"
 	"net"
 
-	quicnet "github.com/gfanton/grpc-quic/net"
+	quicnet "github.com/rashnakumar96/grpc-quic/net"
 	"google.golang.org/grpc/credentials"
 )
 
