@@ -1,4 +1,4 @@
-module grpc-quic
+module github.com/rashnakumar96/grpc-quic
 
 require (
 	github.com/golang/protobuf v1.4.0-rc.2
