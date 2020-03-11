@@ -5,7 +5,7 @@ option java_package = "io.grpc.examples.routeguide";
 option java_outer_classname = "RouteGuideProto";
 
 package routeguide;
-option go_package = "github.com/gfanton/grpc-quic/proto/routeguide";
+option go_package = "github.com/rashnakumar96/grpc-quic/proto/routeguide";
 
 // Interface exported by the server.
 service RouteGuide {
